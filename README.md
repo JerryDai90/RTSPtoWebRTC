@@ -86,3 +86,17 @@ Examples of working with video on golang
 - [RTSPtoHLSLL](https://github.com/deepch/RTSPtoHLSLL)
 
 [![paypal.me/AndreySemochkin](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/AndreySemochkin) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+
+
+
+## 20210811
+1、安装完成go 之后，需要设置 go mod 代理，否则在中国是下载不到的（FQ后也没用）
+2、go build 可以编译出对应操作系统的二进制文件，如果需要到其他机器运行，需要修改，否则会提示在地址中丢失端口
+![image](https://user-images.githubusercontent.com/8317670/128994915-caa3b996-9d97-41ef-9275-86079d80a8ee.png)
+
+
+
+
+
+
+[![paypal.me/AndreySemochkin](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/AndreySemochkin) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
